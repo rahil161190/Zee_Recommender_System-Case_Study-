@@ -1,4 +1,4 @@
 streamlit
 pandas
 numpy
-cmfrec
+git+https://github.com/david-cortes/cmfrec.git
